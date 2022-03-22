@@ -6,10 +6,10 @@ from datetime import datetime
 
 def connect():
     return psycopg2.connect(
-        host="54.38.243.66",
+        host="00.00.00.00.00",
         port="49801",
         user="groupe",
-        password="24DK1jAudkZo_32kd01mDkzNxId4214ZdPAZncJAPd291",
+        password="aaaaaaaaaa",
         database="flights-delay"
     )
     
