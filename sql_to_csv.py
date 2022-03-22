@@ -110,14 +110,14 @@ cur.close()
 flights = pd.read_csv('final.csv')
 airlines = pd.read_csv('airlines.csv')
 airlines = airlines.dropna()
-airports = pd.read_csv('airports_full.csv')
+airports = pd.read_csv('airports_clean.csv')
 
 #Airlines
 
 flights = pd.read_csv('final.csv')
 airlines = pd.read_csv('airlines.csv')
 airlines = airlines.dropna()
-airports = pd.read_csv('airports_full.csv')
+airports = pd.read_csv('airports_clean.csv')
 
 sql_airline = """
     INSERT INTO AIRLINE (
