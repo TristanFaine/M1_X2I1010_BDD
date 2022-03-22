@@ -1,10 +1,10 @@
 # M1_X2I1010_BDD
 ## Sources
-Le dataset utilisé pour la réalisation de notre entrepôt de données est disponible sur Kaggle : https://www.kaggle.com/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018
+Le dataset utilisé pour la réalisation de notre entrepôt de données est disponible sur Kaggle : https://www.kaggle.com/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018  
 Celui-ci peut être reconstruit directement depuis le site du *Bureau of Transportation Statistics* https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr
 
 ## Licence de l'entrepôt : **Data Package under the Public Domain Dedication and License (PPDL)**
-Le *BOT* est une entité faisant partie du *Department of Transportation*. Les données accessibles mises à disposition sont ouvertes : https://www.transportation.gov/mission/digital-government-strategy-4
+Le *BOT* est une entité faisant partie du *Department of Transportation*. Les données accessibles mises à disposition sont ouvertes : https://www.transportation.gov/mission/digital-government-strategy-4  
 En cas d'utilisation de ces données, le *DOT* préconise d'utiliser une licence **CC-BY** ou équivalent : https://ntl.bts.gov/ntl/public-access/managing-rights 
 Cependant, la réutilisation de données publiques rends possible l'utilisation de la PPDL : https://opendatacommons.org/licenses/pddl/1-0/.
 
